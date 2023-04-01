@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ~
+
 #Installing_fish
 pkg install fish -y
 
