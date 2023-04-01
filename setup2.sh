@@ -11,3 +11,5 @@ cd ~
 
 termux-reload-settings
 clear
+
+rm -rf ~/TerCool/
