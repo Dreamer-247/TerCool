@@ -12,5 +12,3 @@ echo -e "fish" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
 #Applying_changes
 source /data/data/com.termux/files/usr/etc/bash.bashrc
-
-echo "start"
