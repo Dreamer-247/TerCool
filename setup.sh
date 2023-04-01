@@ -12,5 +12,7 @@ rm motd motd-playstore
 #Updating_bash.bashrc
 echo -e "fish" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
+cd ~
+
 #Applying_changes
 source /data/data/com.termux/files/usr/etc/bash.bashrc
